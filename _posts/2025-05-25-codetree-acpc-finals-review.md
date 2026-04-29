@@ -1,7 +1,7 @@
 ---
 title: "2025 코드트리 ACPC 본선 47등 후기 (AWS x Codetree Programming Contest)"
 date: 2025-05-25 22:53:00 +0900
-categories: ["Problem Solving"]
+categories: ["Competitive Programming"]
 tags: [코드트리, ACPC]
 toc: true
 ---
